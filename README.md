@@ -1,22 +1,22 @@
-<h1 align="center">Hey there! 👋 I'm Moin Ansari</h1>
-<h3 align="center">Aspiring Computer Scientist | Curious Developer | Professional Coffee Drinker ☕</h3>
+<h1 align="center">Hello there👋! I'm Moin Ansari</h1>
+<h3 align="center">Aspiring Computer Scientist | Curious Developer | Professional Coffee☕ Drinker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinansari1817&label=People%20stalking%20my%20profile&color=blue&style=flat-square" alt="moinansari1817" /> </p>
 
 
 <img align="right" alt="Coding GIF" width="380" src="https://i.imgur.com/rTZkf4K.gif">
 
-- 🌱 Currently learning the wonders of **VB.NET, ASP.NET, SQL**, and figuring out how to talk to computers without sounding too desperate.
+- 🌱 Currently learning the wonders of **PYTHON,NODE.JS**, and figuring out how to talk to computers without sounding too desperate.
 
-- 🧠 **Goal**: I’m on a mission to learn *everything* about Computer Science. No biggie, right? I know it’s going to be a wild ride, but hey, no one said being a curious geek was easy. (Hint: it’s also not impossible).
+- 🧠 **Goal**: I’m on a mission to learn *everything* about Computer Science. No biggie, right? I know it’s going to be a wild ride, but hey, no one said being a curious geek was easy. (Hint: it’s also not impossible... heheh).
 
 - 🎯 **Passion**: I love solving problems, both in code and in real life. Like, why does coffee always run out at the worst possible time? 🤔
 
 - 👨‍💻 I build things, I break things (intentionally, mostly), and I fix things. I learn something new every day, and that’s my favorite part of this IT world.
 
-- 📫 Reach out at **moin.edu01@gmail.com** (I promise I’ll reply faster than a bug fix… most of the time).
+- 📫 Reach out at **moin.edu01@gmail.com** (I promise I’ll reply faster than a bug fix... most of the time).
 
-<h3 align="left">Let's Connect (before the internet runs out):</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/moin-ansari1817/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moin Ansari" height="30" width="40" /></a>
 </p>
