@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Om Patel</h1>
+<h3 align="center">3rd Year IT Student | In the World of Bits and Bytes</h3>
 <!--
 **moin-ansari-o8/moin-ansari-o8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
