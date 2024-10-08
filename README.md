@@ -1,9 +1,6 @@
 <h1 align="center">Hello there👋! I'm Moin Ansari</h1>
 <h3 align="center">Aspiring Computer Scientist | Curious Developer | Professional Coffee☕ Drinker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinansari1817&label=People%20stalking%20my%20profile&color=blue&style=flat-square" alt="moinansari1817" /> </p>
-
-
 <img align="right" alt="Coding GIF" width="380" src="https://i.imgur.com/rTZkf4K.gif">
 
 - 🌱 Currently learning the wonders of **PYTHON,NODE.JS**, and figuring out how to talk to computers without sounding too desperate.
