@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Moin Ansari</h1>
-<h3 align="center">3rd Year IT Student | Passionate Developer | Lifelong Learner</h3>
+<h1 align="center">Hey there! 👋 I'm Moin Ansari</h1>
+<h3 align="center">Aspiring Computer Scientist | Curious Developer | Professional Coffee Drinker ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinansari1817&label=Profile%20views&color=0e75b6&style=flat" alt="moinansari1817" /> </p>
-<img align="right" alt="Coding GIF" width="380" src="https://imgur.com/rTZkf4K">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinansari1817&label=People%20stalking%20my%20profile&color=brightgreen&style=flat" alt="moinansari1817" /> </p>
 
-- 🌱 I’m currently learning **VB.NET, ASP.NET, SQL** and diving deeper into **Web Development and Object-Oriented Programming**.
-- 🎯 **Goal**: My goal is to learn everything about computer science. I know it is not easy, but also not impossible. I am very curious and passionate about learning new things in the IT world.
-- 💡 I enjoy problem-solving and the challenge of learning new programming languages and tools every day.
+<img align="right" alt="Coding GIF" width="380" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-- 📫 How to reach me: **moinansari2138@gmail.com**
+- 🌱 Currently learning the wonders of **VB.NET, ASP.NET, SQL**, and figuring out how to talk to computers without sounding too desperate.
 
-<h3 align="left">Connect with me:</h3>
+- 🧠 **Goal**: I’m on a mission to learn *everything* about Computer Science. No biggie, right? I know it’s going to be a wild ride, but hey, no one said being a curious geek was easy. (Hint: it’s also not impossible).
+
+- 🎯 **Passion**: I love solving problems, both in code and in real life. Like, why does coffee always run out at the worst possible time? 🤔
+
+- 👨‍💻 I build things, I break things (intentionally, mostly), and I fix things. I learn something new every day, and that’s my favorite part of this IT world.
+
+- 📫 Reach out at **moinansari2138@gmail.com** (I promise I’ll reply faster than a bug fix… most of the time).
+
+<h3 align="left">Let's Connect (before the internet runs out):</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/moin-ansari1817/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moin Ansari" height="30" width="40" /></a>
 </p>
@@ -25,6 +30,7 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  
 
   <!-- Web Development and Database Tools -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="asp.net" width="40" height="40"/> </a>
@@ -34,3 +40,5 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> 💡 Fun fact: I can code and drink coffee at the same time. But I still haven’t figured out why the code doesn’t run faster after my third cup. </p>
