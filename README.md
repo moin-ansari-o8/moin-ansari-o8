@@ -2,7 +2,7 @@
 <h3 align="center">3rd Year IT Student | Passionate Developer | Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinansari1817&label=Profile%20views&color=0e75b6&style=flat" alt="moinansari1817" /> </p>
-<img align="right" alt="Coding GIF" width="380" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+<img align="right" alt="Coding GIF" width="380" src="https://imgur.com/gallery/developer-reaction-gifs-qa34t">
 
 - 🌱 I’m currently learning **VB.NET, ASP.NET, SQL** and diving deeper into **Web Development and Object-Oriented Programming**.
 - 🎯 **Goal**: My goal is to learn everything about computer science. I know it is not easy, but also not impossible. I am very curious and passionate about learning new things in the IT world.
@@ -25,7 +25,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt="vb.net" width="40" height="40"/> </a>
 
   <!-- Web Development and Database Tools -->
   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="asp.net" width="40" height="40"/> </a>
