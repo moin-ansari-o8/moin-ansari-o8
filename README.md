@@ -14,7 +14,7 @@
 
 - 👨‍💻 I build things, I break things (intentionally, mostly), and I fix things. I learn something new every day, and that’s my favorite part of this IT world.
 
-- 📫 Reach out at **moinansari2138@gmail.com** (I promise I’ll reply faster than a bug fix… most of the time).
+- 📫 Reach out at **moin.edu01@gmail.com** (I promise I’ll reply faster than a bug fix… most of the time).
 
 <h3 align="left">Let's Connect (before the internet runs out):</h3>
 <p align="left">
