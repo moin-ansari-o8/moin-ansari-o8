@@ -2,7 +2,7 @@
 <h3 align="center">3rd Year IT Student | Passionate Developer | Lifelong Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinansari1817&label=Profile%20views&color=0e75b6&style=flat" alt="moinansari1817" /> </p>
-<img align="right" alt="Coding GIF" width="380" src="https://imgur.com/gallery/developer-reaction-gifs-qa34t">
+<img align="right" alt="Coding GIF" width="380" src="https://imgur.com/rTZkf4K">
 
 - 🌱 I’m currently learning **VB.NET, ASP.NET, SQL** and diving deeper into **Web Development and Object-Oriented Programming**.
 - 🎯 **Goal**: My goal is to learn everything about computer science. I know it is not easy, but also not impossible. I am very curious and passionate about learning new things in the IT world.
