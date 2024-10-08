@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinansari1817&label=People%20stalking%20my%20profile&color=brightgreen&style=flat" alt="moinansari1817" /> </p>
 
-<img align="right" alt="Coding GIF" width="380" src="https://tenor.com/bhOSD.gif">
+<img align="right" alt="Coding GIF" width="380" src="https://media1.tenor.com/m/bQCHJwgCNuMAAAAd/kitten-cat.gif">
 
 - 🌱 Currently learning the wonders of **VB.NET, ASP.NET, SQL**, and figuring out how to talk to computers without sounding too desperate.
 
