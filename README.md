@@ -7,7 +7,7 @@
 
 - 🧠 **Goal**: I’m on a mission to learn *everything* about Computer Science. No biggie, right? I know it’s going to be a wild ride, but hey, no one said being a curious geek was easy. (Hint: it’s also not impossible... heheh).
 
-- 🎯 **Passion**: I'm driven by solving problems, whether it's writing efficient code or finding creative solutions to everyday challenges, I thrive on turning complexity into clarity. 🤔
+- 🎯 **Passion**: I'm driven by solving problems, whether it's writing efficient code or finding creative solutions to everyday challenges, I thrive on turning complexity into clarity.
 
 - 👨‍💻 I build things, I break things (intentionally, mostly), and I fix things. I learn something new every day, and that’s my favorite part of this IT world.
 
