@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://i.imgur.com/rTZkf4K.gif">
 
-- 🌱 Currently learning the wonders of **PYTHON, NODE.JS**, and figuring out how to talk to computers without sounding too desperate.
+- 🌱 Currently learning the wonders of **PYTHON, REACT.JS**, and figuring out how to talk to computers without sounding too desperate.
 
 - 🧠 **Goal**: I’m on a mission to learn *everything* about Computer Science. No biggie, right? I know it’s going to be a wild ride, but hey, no one said being a curious geek was easy. (Hint: it’s also not impossible... heheh).
 
