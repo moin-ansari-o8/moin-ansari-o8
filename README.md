@@ -64,8 +64,6 @@ const stack = {
 </tr>
 </table>
 
-</div>
-
 | **Domain** | **Proficiency** |
 |:-----------|:----------------|
 | **Web Development** | HTML • CSS • JavaScript • React.js • ASP.NET |
@@ -73,6 +71,8 @@ const stack = {
 | **Database** | MySQL • Data Modeling • Query Optimization |
 | **DevOps & Tools** | Git • GitHub • Linux • Version Control |
 | **Problem Solving** | Algorithms • Data Structures • Debugging |
+
+</div>
 
 ---
 
