@@ -18,7 +18,7 @@ Computer Science Enthusiast • Full-Stack Explorer • Debug-Driven Developer
 
 ## 👨‍💻 Who I Am
 
-I'm a developer who believes that every bug is just an undiscovered feature in disguise. My journey in Computer Science is fueled by an insatiable curiosity and a genuine love for problem-solving. I don't just write code—I craft solutions that turn complex challenges into elegant simplicity.
+I'm a developer who believes that every bug is just an undiscovered feature in disguise. My journey in Computer Science is fueled by an insatiable curiosity and a genuine love for problem-solving. I don't just write code, I craft solutions that turn complex challenges into elegant simplicity.
 
 **What defines my work:**
 - 💡 Building with purpose, not just for the sake of building
@@ -151,7 +151,7 @@ I'm always open to:
 ## 🎪 The Fun Side
 
 > **Debug Philosophy:** Coffee goes in, code comes out. The ratio determines the quality.  
-> **Current Status:** Learning everything about Computer Science (yes, everything — challenge accepted 🎯)  
+> **Current Status:** Learning everything about Computer Science (yes, everything. A commitment to myself 🎯)  
 > **Superpower:** Can write code and sip coffee simultaneously without mixing up the syntax  
 > **Reality Check:** Still wondering why three cups don't make the compiler run faster
 
