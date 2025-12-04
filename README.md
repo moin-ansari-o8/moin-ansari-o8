@@ -31,6 +31,8 @@ I'm a developer who believes that every bug is just an undiscovered feature in d
 
 ## 🛠️ Technical Arsenal
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -61,6 +63,8 @@ const stack = {
 </td>
 </tr>
 </table>
+
+</div>
 
 | **Domain** | **Proficiency** |
 |:-----------|:----------------|
