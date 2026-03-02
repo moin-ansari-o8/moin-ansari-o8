@@ -28,6 +28,12 @@ I'm a developer who believes that every bug is just an undiscovered feature in d
 - ⚡ Breaking things intentionally to understand them better (then fixing them, of course)
 
 ---
+## 📈 Contribution Graph
+
+[![Moin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moin-ansari-o8&theme=react-dark)](https://github.com/moin-ansari-o8)
+
+
+---
 
 ## 🛠️ Technical Arsenal
 
@@ -150,10 +156,10 @@ I'm always open to:
 
 ## 🎪 The Fun Side
 
-> **Debug Philosophy:** Coffee goes in, code comes out. The ratio determines the quality.  
+> **Debug Philosophy:** Read the error, understand the system, fix the root cause — not the symptom.  
 > **Current Status:** Learning everything about Computer Science (yes, everything. A commitment to myself 🎯)  
-> **Superpower:** Can write code and sip coffee simultaneously without mixing up the syntax  
-> **Reality Check:** Still wondering why three cups don't make the compiler run faster
+> **Superpower:** Turning vague requirements into working software  
+> **Reality Check:** The more I learn, the more I realize how much there is to learn
 
 ---
 
@@ -161,7 +167,7 @@ I'm always open to:
 
 ### 🌐 Explore • Create • Innovate
 
-*Transforming caffeine into code since day one of my journey*
+*Building, breaking, and rebuilding — one commit at a time*
 
 **`</coding>`**
 
